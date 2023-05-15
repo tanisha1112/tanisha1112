@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Tanisha
+- I am a graduate student at North Carolina State University in Electrical and Computer Engineering specializing in Signal Processing and Computational Intelligence.
+- 👀 I’m interested in Machine Learning and Computer Vision.
+- 🌱 I have worked for around 4 years in Computer Vision but there's still a long way to go in this ever expanding field.
+- 📫 Feel free to hit me up for any intriguing project or opportunity. I'm always up for a challenge! [LinkedIn](https://www.linkedin.com/in/tanisha-khurana/)
 
 <!--
 **tanisha1112/tanisha1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
