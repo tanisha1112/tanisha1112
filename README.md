@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Tanisha
-- I am a graduate student at NC State University in Electrical and Computer Engineering specializing in Signal Processing and Computational Intelligence.
-- 👀 My area of specialization is Machine Learning with a focus on Computer Vision.
-- 🌱 I have worked for around 4 years across various applications of Machine Learning in agriculture, retail, hospitality and energy sector.  
-- 📫 Feel free to hit me up for any intriguing project or opportunity. I'm always up for a challenge. [LinkedIn](https://www.linkedin.com/in/tanisha-khurana/)
+- 👀 I’m passionate about Machine Learning, Computer Vision, NLP, and Multimodal AI.
+- 🌱 I have worked for around 4 years across various applications of Machine Learning in agriculture, retail, hospitality and energy sector.
+- I enjoy creating innovative solutions that contribute to sustainability and make a positive impact on the planet. 
+- 📫 Feel free to reach out for exciting projects or opportunities—I’m always up for a challenge! [LinkedIn](https://www.linkedin.com/in/tanisha-khurana/)
 
 <!--
 **tanisha1112/tanisha1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
